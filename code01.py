@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.font_manager as fm
 
+#改动测试
+
 # 设置中文字体
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 使用黑体
 plt.rcParams['axes.unicode_minus'] = False  # 解决坐标轴负数显示问题
